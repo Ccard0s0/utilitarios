@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzgtMDkta255OWZoM2IuanBn.jpg);
+    background-size: 100% auto;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+
+
+}
+
+#titulo {
+    text-align: center;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    color: #c6d6cd;
+}
+
+h3 {
+    color: #d0e2d7;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+img {
+    width: 300;
+    height: 400;
+    
+}
+a {
+    color:#f0f8ff
+}
